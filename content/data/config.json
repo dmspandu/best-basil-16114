@@ -1,12 +1,12 @@
 {
-    "title": "GARANGGATI COMPANY PROFILE",
+    "title": "Stackbit Starter Theme",
     "path_prefix": "/",
     "header": {
         "title": "GARANGGATI",
         "has_nav": true,
         "nav_links": [
             {
-                "label": "",
+                "label": "Features",
                 "url": "/features",
                 "style": "link"
             },
