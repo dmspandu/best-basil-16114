@@ -20,10 +20,11 @@ sections:
     has_background: true
   - type: features_section
     features:
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+      - content: >
+          Garanggati didirikan tahun 2021 dengan misi pengelolaan ruang publik
+          dan privat dalam keterbatasan tata ruang dan kota di Jakarta, kami
+          dapat mengintegrasikan transportasi dan logistis dengan marketplace
+          dan aplikasi porter.
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
