@@ -35,10 +35,9 @@ sections:
             style: secondary
         title: Siapa Kami
       - title: Feature 2
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Jika And mengalami masalah lokasi rusunawa ataupun apartemen ataupun
+          hotel, gunakan layanan transportasi dan logistik dari Garanggati.
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
