@@ -34,8 +34,7 @@ sections:
             url: /features
             style: secondary
         title: Siapa Kami
-      - title: Feature 2
-        content: >
+      - content: >
           Jika And mengalami masalah lokasi rusunawa ataupun apartemen ataupun
           hotel, gunakan layanan transportasi dan logistik dari Garanggati.
         align: left
